@@ -1,3 +1,7 @@
+## Project Demo
+Watch the project demonstration on YouTube:  
+https://www.youtube.com/watch?v=SojCcgqSzyg&feature=youtu.be
+
 # Music-Player
 Java Swing Music Player implementing Linked List for dynamic playlist management with GUI-based playback and file persistence.
 #  Music Player using Linked List (Java Swing)
